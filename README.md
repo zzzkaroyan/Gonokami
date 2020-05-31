@@ -15,7 +15,7 @@
 7. You can cancel your reservation by pressing Cancel Reservation.
 ![GitHub Logo](/images/Pic_github/7_Cancel_reservation.png)
 8. You can edit your profile and put your accont picture.
-![GitHub Logo](/images/Pic_github/6_Check_reservation.png)
-9. For the future prospect, we would like to improve our GUI like this.
 ![GitHub Logo](/images/Pic_github/8.png)
+9. For the future prospect, we would like to improve our GUI like this.
 ![GitHub Logo](/images/Pic_github/9.png)
+![GitHub Logo](/images/Pic_github/10.png)
